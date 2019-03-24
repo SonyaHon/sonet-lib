@@ -1,0 +1,49 @@
+$color-default: #FEFEFE;
+$color-default-border: #555555;
+$color-default-text: #0D0D0D;
+$color-default-disabled: #E9E7E7;
+$color-default-disabled-border: #858585;
+$color-default-disabled-text: #858585;
+
+$color-primary: #2080C4;
+$color-primary-border: #1F547A;
+$color-primary-text: #FEFEFE;
+$color-primary-disabled: #76A6C8;
+$color-primary-disabled-border: #526F83;
+$color-primary-disabled-text: #6B6B6B;
+
+$color-error: #ED602F;
+$color-error-border: #93302A;
+$color-error-text: #0D0D0D;
+$color-error-disabled: #AB7E6E;
+$color-error-disabled-border: #9E605D;
+$color-error-disabled-text: #605D5D;
+
+$color-warning: #EECE5C;
+$color-warning-border: #C5A041;
+$color-warning-text: #0D0D0D;
+$color-warning-disabled: #C2AF6E;
+$color-warning-disabled-border: #948765;
+$color-warning-disabled-text: #605D5D;
+
+$color-success: #00E08A;
+$color-success-border: #099675;
+$color-success-text: #0D0D0D;
+$color-success-disabled: #5CB392;
+$color-success-disabled-border: #147D64;
+$color-success-disabled-text: #605D5D;
+
+$color-info: #4A6E88;
+$color-info-border: #143145;
+$color-info-text: #FEFEFE;
+$color-info-disabled: #4A6E88;
+$color-info-disabled-border: #143145;
+$color-info-disabled-text: #858585;
+
+.centered-content {
+  width:           100%;
+  height:          100%;
+  display:         flex;
+  justify-content: center;
+  align-items:     center;
+}
